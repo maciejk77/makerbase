@@ -29,3 +29,11 @@ body {
 .btn {
   margin: 0px 2px 2px 2px;
 }
+
+.navbar {
+  background-color: #C84540;
+}
+
+.text-base-style {
+  color: #ffffff;
+}
