@@ -2,7 +2,7 @@ body {
   /*background-color: rgb(169, 29, 42);*/
 }
 
-.navbar-header .navbar-text {
+.navbar-text {
   color: rgb(169, 29, 42);
   font-size: 150%;
 }
@@ -11,9 +11,14 @@ body {
   padding: 2em 5em;
 }
 
+.btn.btn-default {
+  margin-left: 0;
+}
+
 .img-circle {
   max-width: 50px;
   margin-left: 50px;
+  margin: 14px 2px 2px 2px;
 }
 
 .post-title {
@@ -27,7 +32,7 @@ body {
 }
 
 .btn {
-  margin: 0px 2px 2px 2px;
+  margin: 20px 2px 2px 2px;
 }
 
 .navbar {
