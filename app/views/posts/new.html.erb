@@ -12,8 +12,6 @@
 </head>
 <body>
 
-
-
 <div class="container">
   <h2>Add new resource</h2>
   <form role="form">
@@ -33,12 +31,12 @@
       <%= f.text_field :all_tags, placeholder: " tag1, tag2, tag..." %>
     </div>
 
-    <%= f.submit 'Submit' %>
+    <%= f.submit 'Submit', class: "btn btn-primary" %>
   </form>
 </div>
+
+<% end %>
 
 </body>
 </html>
 
-
-<% end %>

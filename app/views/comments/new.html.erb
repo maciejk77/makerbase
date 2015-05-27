@@ -6,3 +6,42 @@
   </div>
 <% end %>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Add new resource</h2>
+  <form role="form">
+    
+    <div class="form-group">
+      <label for="title"><%= f.label :title %>:</label>
+        <%= f.text_field :title, placeholder: " resource title..." %>
+    </div>
+    
+   <div class="form-group">
+      <label for="link"><%= f.label :link %>:</label>
+      <%= f.text_field :link, placeholder: " http://..." %>
+    </div>
+  
+     <div class="form-group">
+      <label for="tags"><%= f.label :tags %>:</label>
+      <%= f.text_field :all_tags, placeholder: " tag1, tag2, tag..." %>
+    </div>
+
+    <%= f.submit 'Submit', class: "btn btn-primary" %>
+  </form>
+</div>
+
+</body>
+</html>
+
+<% end %>
