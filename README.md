@@ -52,7 +52,7 @@ Armed with that knowledge we set off with our MVP and bonus features, and wrote 
 
 ###Technologies:
 
-Rspec, Capybara, Rails, PostgreSQL, Devise, Omniauth, Octokit, HTML, CSS, Bootstrap
+Rspec, Capybara, Ruby on Rails, PostgreSQL, Devise, Omniauth, Octokit, HTML, CSS, Bootstrap, Waffle.io
 
 -------------
 
