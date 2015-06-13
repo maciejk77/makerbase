@@ -5,8 +5,8 @@
 
 ###Table of contents:
 
-- [Use MakerBASE on Heroku](#)
-- [View the MakerBASE presentation slides](#)
+- [Maker::BASE on Heroku](#)
+- [Maker::BASE presentation slides](#)
 - [Brief](#brief)
 - [Our approach](#our-approach)
 		- [Survey results](#survey-results)
@@ -17,9 +17,9 @@
 
 ----------
 
-##[Use MakerBASE on Heroku](http://makerbase.herokuapp.com)
+###[Use MakerBASE on Heroku](http://makerbase.herokuapp.com)
 
-##[View the MakerBASE presentation slides](https://prezi.com/uv_ga42bbuvk/welcome/?utm_campaign=share&utm_medium=copy)
+###[View the MakerBASE presentation slides](https://prezi.com/uv_ga42bbuvk/welcome/?utm_campaign=share&utm_medium=copy)
 
 
 ![makerbase jumbotron](http://sanjsanj.github.io/images/week11_makerbase_jumbotron.png)
