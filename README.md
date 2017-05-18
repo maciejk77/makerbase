@@ -1,9 +1,9 @@
-#Maker::Base
+# Maker::Base
 
 [![Build Status](https://travis-ci.org/Makerbase/makerbase.svg?branch=master)](https://travis-ci.org/Makerbase/makerbase)  [![Coverage Status](https://coveralls.io/repos/Makerbase/makerbase/badge.svg?branch=master)](https://coveralls.io/r/Makerbase/makerbase?branch=master)  [![Code Climate](https://codeclimate.com/github/Makerbase/makerbase/badges/gpa.svg)](https://codeclimate.com/github/Makerbase/makerbase)
 
 
-###Table of contents:
+### Table of contents:
 
 - [Maker::BASE on Heroku](#)
 - [Maker::BASE presentation slides](#)
@@ -17,9 +17,9 @@
 
 ----------
 
-###[Use MakerBASE on Heroku](http://makerbase.herokuapp.com)
+### [Use MakerBASE on Heroku](http://makerbase.herokuapp.com)
 
-###[View the MakerBASE presentation slides](https://prezi.com/uv_ga42bbuvk/welcome/?utm_campaign=share&utm_medium=copy)
+### [View the MakerBASE presentation slides](https://prezi.com/uv_ga42bbuvk/welcome/?utm_campaign=share&utm_medium=copy)
 
 
 ![makerbase jumbotron](http://sanjsanj.github.io/images/week11_makerbase_jumbotron.png)
@@ -28,7 +28,7 @@
 
 ---------
 
-###Brief:
+### Brief:
 
 To create a tutorial, resource and knowledge sharing website.
 
@@ -36,7 +36,7 @@ Makerbase is a web app designed to help the Makers Academy students and communit
 
 ----------------
 
-###Our approach:
+### Our approach:
 
 We started the conversation with our coaches so we could determine what our goals and MVP were.  Very early on they indicated that the in-house engineering team at [Makers](http://www.makersacademy.com) were intending to do something similar for internal use by students, coaches and alumni.  They also indicated some added functionality they wanted to include.
 
@@ -44,19 +44,19 @@ Seeing as they were our client we decided to roll with it.  We brainstormed what
 
 With that we designed a survey that students, past and present, answered to help us slimline our concept and isolate an MVP.  The top three items were aggregation and rating of resources (internal and external), an avenue to solicit more code reviews, and a [Stack Overflow](http://www.stackoverflow.com)-clone where they could ask for very basic advice safe in the knowledge that they wouldn't get shot down.
 
-#####[Survey results](https://docs.google.com/forms/d/1_F1q0ns_k1sXZH_N6QzURXs-20X1mr1VLXO5iFzmTmQ/viewanalytics)
+##### [Survey results](https://docs.google.com/forms/d/1_F1q0ns_k1sXZH_N6QzURXs-20X1mr1VLXO5iFzmTmQ/viewanalytics)
 
 Armed with that knowledge we set off with our MVP and bonus features, and wrote our user stories.
 
 ----------------
 
-###Technologies:
+### Technologies:
 
 Rspec, Capybara, Ruby on Rails, PostgreSQL, Devise, Omniauth, Octokit, HTML, CSS, Bootstrap, Waffle.io
 
 -------------
 
-###User stories:
+### User stories:
 
 ```
 As a Maker who has too many logins to remember
@@ -118,7 +118,7 @@ I want to be able to filter by tag
 
 ------
 
-###Meet the team:
+### Meet the team:
 
 [Jacob](https://github.com/jaymuk) | [Massud](https://github.com/massud) | [Maciek](https://github.com/maciejk77) | [Sanj](https://github.com/sanjsanj)  
 :---: | :---: | :---: | :---:  
@@ -126,7 +126,7 @@ I want to be able to filter by tag
 
 -----------
 
-###Tests:
+### Tests:
 
 ```
 WelcomeController
